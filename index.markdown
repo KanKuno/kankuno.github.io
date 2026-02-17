@@ -10,7 +10,6 @@ title: "Home"
 Welcome to the website of **Kan Kuno (久野 寛)**!  
 I am a Project Assistant Professor at the University of Tokyo Market Design Center.  
 My research focuses on the empirical analysis of market design problems using structural IO methods.  
-I apply these methods to areas such as daycare assignment, online marketplaces, and internal labor markets.  
 
 I obtained my PhD in Economics from **Penn State** in 2024.  
 
