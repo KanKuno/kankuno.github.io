@@ -18,7 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Kan Kuno
+#title: Kan Kuno
+title: ""
 #email: kankuno@e.u-tokyo.ac.jp
 #url: "https://kankuno.github.io" # the base hostname & protocol for your site
 #twitter_username: jekyllrb

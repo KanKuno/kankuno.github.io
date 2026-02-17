@@ -1,7 +1,9 @@
 ---
 layout: home
-title: "Home"
+title: Home
 ---
+
+# Kan Kuno
 
 ![My Photo]({{ '/assets/images/profile_kankuno.jpg' | relative_url }}){:style="width: 100px; height: auto;"}
 

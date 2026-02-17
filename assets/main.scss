@@ -1,0 +1,14 @@
+---
+---
+
+@import "minima";
+
+/* Kill the auto page title ("Home") */
+.page-heading {
+  display: none !important;
+}
+
+/* Kill any theme post title if it appears */
+.post-title {
+  display: none !important;
+}
