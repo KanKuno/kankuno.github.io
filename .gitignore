@@ -3,3 +3,11 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+cv.zip
+assets/pdf/*.aux
+assets/pdf/*.fdb_latexmk
+assets/pdf/*.fls
+assets/pdf/*.log
+assets/pdf/*.out
+assets/pdf/*.synctex.gz
+assets/pdf/*.xdv

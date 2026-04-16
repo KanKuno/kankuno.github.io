@@ -3,6 +3,10 @@
 
 @import "minima";
 
+.site-header {
+  display: none !important;
+}
+
 /* Kill the auto page title ("Home") */
 .page-heading {
   display: none !important;
@@ -11,4 +15,70 @@
 /* Kill any theme post title if it appears */
 .post-title {
   display: none !important;
+}
+
+.profile-photo {
+  width: 110px;
+  height: auto;
+  border-radius: 4px;
+  margin-bottom: 1rem;
+}
+
+.social-links {
+  display: flex;
+  gap: 0.85rem;
+  align-items: center;
+  margin-top: 0.35rem;
+  margin-bottom: 1.25rem;
+}
+
+.footer-links {
+  gap: 0.65rem;
+  margin-top: 0.85rem;
+  margin-bottom: 0.5rem;
+}
+
+.social-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2rem;
+  height: 2rem;
+  color: #222;
+  border: 1px solid #d8d8d8;
+  border-radius: 999px;
+  transition: color 0.15s ease, border-color 0.15s ease, transform 0.15s ease;
+}
+
+.social-link:hover,
+.social-link:focus {
+  color: #111;
+  border-color: #888;
+  transform: translateY(-1px);
+  text-decoration: none;
+}
+
+.social-link svg {
+  width: 1.05rem;
+  height: 1.05rem;
+  fill: currentColor;
+}
+
+.footer-links .social-link {
+  width: 1.45rem;
+  height: 1.45rem;
+  color: #888;
+  border: none;
+}
+
+.footer-links .social-link:hover,
+.footer-links .social-link:focus {
+  color: #444;
+  border: none;
+  transform: none;
+}
+
+.footer-links .social-link svg {
+  width: 0.95rem;
+  height: 0.95rem;
 }

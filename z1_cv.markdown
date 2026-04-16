@@ -2,6 +2,7 @@
 layout: page
 title: CV
 permalink: /cv/
+nav_exclude: true
 ---
 
 <object data="/assets/pdf/kankuno_cv.pdf" type="application/pdf" width="100%" height="800px">

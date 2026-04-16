@@ -2,6 +2,7 @@
 layout: page
 title: Research
 permalink: /research/
+nav_exclude: true
 ---
 
 # Working Papers
@@ -20,7 +21,7 @@ permalink: /research/
 
 - **Daycare Matching with Siblings: Social Implementation and Welfare Evaluation**  
   (with [Daisuke Moriwaki](https://sites.google.com/site/dmoriwaki/home) and Yoshihiro Takenami)  
-  - Draft available upon request  
+  - [arXiv](https://arxiv.org/abs/2604.13597), [UTMD Working Paper](https://www.mdc.e.u-tokyo.ac.jp/wp/wp-content/uploads/2026/04/UTMD-129.pdf), [RIETI DP](https://www.rieti.go.jp/jp/publications/dp/26e031.pdf)  
   - Presented at: SWET 2025  
 
 # Selected Work in Progress
