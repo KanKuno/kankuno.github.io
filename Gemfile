@@ -32,13 +32,8 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 # do not have a Java counterpart.
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
-# Ruby 4.0 compatibility
-gem "logger"
-
-# Ruby 4.0 compatibility
-gem "csv"
-
 # Ruby 4.0 compatibility (stdlib gems no longer bundled)
 gem "logger"
 gem "csv"
 gem "webrick"
+gem "base64"
